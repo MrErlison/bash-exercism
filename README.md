@@ -1,0 +1,2 @@
+# bash-exercism
+Bash exercism 
